@@ -333,9 +333,6 @@ npm test
 - [**Evaluation Framework**](docs/EVALUATION.md): Quantitative benchmark suites and methodology.
 
 ---
-
-<div align="center">
-  <p><strong>PaperTrail Research Intelligence</strong> — Engineered for deep inquiry, verifiable evidence, and accelerated scientific discovery.</p>
 ## Contributors
 
 This project was developed during a hackathon through the collaborative efforts of the following contributors.
@@ -348,4 +345,6 @@ This project was developed during a hackathon through the collaborative efforts 
 **Project Repository:** [PaperTrail](https://github.com/umeshadabala/PaperTrail)
 
 We appreciate the time, effort, and collaboration that went into building this project.
+<div align="center">
+  <p><strong>PaperTrail Research Intelligence</strong> — Engineered for deep inquiry, verifiable evidence, and accelerated scientific discovery.</p>
 </div>
